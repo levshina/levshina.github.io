@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "'Hot' and 'cool' languages at the UD workshop in Palma de Mallorca"
-categories: Upcoming talks
+categories: [Upcoming talks]
 ---
 I'll give a talk at the 9th Universal Dependencies workshop in Palma de Mallorca on May 16. The title of my talk is "Which languages are “hot”, and which are “cool”? Using Universal Dependencies for large-scale comparisons of subject expression". 
 
