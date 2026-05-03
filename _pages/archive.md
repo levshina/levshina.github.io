@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /archive/
-title: Posts Archive
+permalink: /cv/
+title: CV
 ---
 
 
-<div id="archives">
-  <section id="archive">
-     <h3>Most Recent Posts</h3>
+<div id="cv">
+  <section id="cv">
+     <h3>My CV</h3>
       {%for post in site.posts %}
       {% unless post.next %}
       <ul class="this">
