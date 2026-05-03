@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ""
-categories: Upcoming_talks
+title: "Hot and cool languages at the UD workshop"
+categories: Upcoming talks
 ---
-Excited to give a talk at the 9th Universal Dependencies workshop in Palma de Majorca on May 16! 
+Excited to give a talk at the 9th Universal Dependencies workshop in Palma de Majorca on May 16, collocated with LREC.
 
 URL: https://universaldependencies.org/udw26/ 
 
