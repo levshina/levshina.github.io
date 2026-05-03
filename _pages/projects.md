@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+title: Projects
+permalink: /projects/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+### Culture comparison with corpora
 
 Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
 
