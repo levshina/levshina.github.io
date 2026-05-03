@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /publications/
+title: Publications
 ---
 
 
-<div id="archives">
+<div id="publications">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
