@@ -4,48 +4,31 @@ title: Projects
 permalink: /projects/
 ---
 
-### Culture comparison with corpora
+# Explicit and implicit communication across languages and cultures
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+How do people from different cultures convey information? Do they do it mainly through overt expressions or subtle, contextual cues? One well-known approach, introduced by Edward T. Hall in the 1970s, categorizes cultures into "low-context" (like Swiss Germans, Germans, and Scandinavians, who prefer clear, explicit communication) and "high-context" (such as Japanese and Chinese, who often imply more than they say outright). But until now, there hasn't been much solid evidence to back up these ideas.
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+Our project is trying to fill that gap by looking at how different languages describe events, focusing on such aspects as the agent, time reference and the source of information. We’re collecting and analyzing corpus data in different languages using a universal annotation schema. We're also planning to use AI, specifically Large Language Models, to spot patterns of implicit information across languages and cultures.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+With this study, we hope to understand how people from different cultures and speaking different languages interpret and communicate information differently.
 
-### Step 2) Customize and view your site
+## Participants
+<ul>
+  <li>Dr. Natalia Levshina (PI, Radboud University)</li>
+  <li>Alice Gazzinelli, Laura Mello, Rafael Morhy (Federal University of Minas Gerais)</li>
+  <li>Dr. Nicole Katzir (Radboud University)</li>
+  <li><a href  = "https://tamaoka.org/en/" target="_blank">Prof. Dr. Katsuo Tamaoka</a> (Shanghai University, Nagoya University)</li>
+  <li>Dr. Jingting Ye (Fudan University)</li>
+</ul>
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+## Student assistants and interns (Radboud University)
+<ul>
+  <li>Marco Centola</li>
+  <li>Anwar Cruz</li>
+  <li>Kyra Kashigin</li> 
+  <li>Nivedha Narayanaswamy</li>
+  <li>Noa Monzón Rodríguez</li>
+</ul>
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
-
-### Step 3) Publish your first blog post
-
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+## Funding
+The Centre of Language Studies (Radboud University) research grants 2024-2026
