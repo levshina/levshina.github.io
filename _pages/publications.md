@@ -5,11 +5,11 @@ title: Publications
 ---
 
 
-# Forthcoming
+## Forthcoming
 
 Levshina, N. (In press). Communicative efficiency and semantics: Language variation, universals and change. In P. Mondal. (Ed.), <i>Handbook of Linguistic Semantics - Bridging Theory, Philosophy and Cognition</i>. Springer. <a target="_blank" href="/docs/Levshina2026_HandbookLinguisticSemantics.pdf"> [pdf (draft)] </a>
 
-# 2025
+## 2025
 Levshina, N. (2025). A Bayesian dawn in linguistics: Trends, benefits and good practices. <i>arXiv</i>.
 <a target="_blank">https://doi.org/10.48550/arXiv.2509.17161</a> <a target="_blank" href="/docs/Levshina2025_BayesianRegression_Preprint.pdf"> [pdf]</a>
 
@@ -19,7 +19,7 @@ Levshina, N. (2025). The paradox of SOV: A case for token-based typology. <i>Glo
 
 de Hoop, H., Levshina, N., Sadowski, S., & Schoenmakers, G.-J. (2025). Generalizing or personalizing: effects of three types of second person pronouns in service ads. <i>Dutch Journal of Applied Linguistics, 14</i>. <a target="_blank">https://doi.org/10.51751/dujal19032</a> <a target="_blank" href="/docs/deHoopEtAl2025_DuJAL.pdf">[pdf]</a>
 
-# 2024 and earlier
+## 2024 and earlier
 
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
