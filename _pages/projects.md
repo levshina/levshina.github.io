@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Explicit and implicit communication across languages and cultures
+## Explicit and implicit communication across languages and cultures
 
 How do people from different cultures convey information? Do they do it mainly through overt expressions or subtle, contextual cues? One well-known approach, introduced by Edward T. Hall in the 1970s, categorizes cultures into "low-context" (like Swiss Germans, Germans, and Scandinavians, who prefer clear, explicit communication) and "high-context" (such as Japanese and Chinese, who often imply more than they say outright). But until now, there hasn't been much solid evidence to back up these ideas.
 
@@ -12,7 +12,7 @@ Our project is trying to fill that gap by looking at how different languages des
 
 With this study, we hope to understand how people from different cultures and speaking different languages interpret and communicate information differently.
 
-## Participants
+### Participants
 <ul>
   <li>Dr. Natalia Levshina (PI, Radboud University)</li>
   <li>Alice Gazzinelli, Laura Mello, Rafael Morhy (Federal University of Minas Gerais)</li>
@@ -21,7 +21,7 @@ With this study, we hope to understand how people from different cultures and sp
   <li>Dr. Jingting Ye (Fudan University)</li>
 </ul>
 
-## Student assistants and interns (Radboud University)
+### Student assistants and interns (Radboud University)
 <ul>
   <li>Marco Centola</li>
   <li>Anwar Cruz</li>
@@ -30,5 +30,5 @@ With this study, we hope to understand how people from different cultures and sp
   <li>Noa Monzón Rodríguez</li>
 </ul>
 
-## Funding
+### Funding
 The Centre of Language Studies (Radboud University) research grants 2024-2026
