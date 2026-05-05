@@ -7,7 +7,7 @@ title: Publications
 
 ## Forthcoming
 
-Levshina, N. (In press). Communicative efficiency and semantics: Language variation, universals and change. In P. Mondal. (Ed.), <i>Handbook of Linguistic Semantics - Bridging Theory, Philosophy and Cognition</i>. Springer. <a target="_blank" href="/docs/Levshina2026_HandbookLinguisticSemantics.pdf"> [pdf (draft)] </a>
+Levshina, N. (In press). Communicative efficiency and semantics: Language variation, universals and change. In P. Mondal (Ed.), <i>Handbook of Linguistic Semantics - Bridging Theory, Philosophy and Cognition</i>. Springer. <a target="_blank" href="/docs/Levshina2026_HandbookLinguisticSemantics.pdf"> [pdf (draft)] </a>
 
 ## 2025
 Levshina, N. (2025). A Bayesian dawn in linguistics: Trends, benefits and good practices. <i>arXiv</i>.
