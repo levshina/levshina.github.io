@@ -29,7 +29,7 @@ Levshina, N. (2024). Word classes in corpus linguistics. In E. van Lier (Ed.), <
 Ariel, M.,  & Levshina, N. (2024). The counting principle makes number words unique. <i>Corpus Linguistics and Linguistic Theory, 21</i>(1), 173-199. <a target="_blank">https://doi.org/10.1515/cllt-2023-0105</a> <a target="_blank" href="/docs/ArielLevshina2024_CLLT.pdf">[pdf]</a>
 
 ## 2023
-Levshina, N., Namboodiripad, S., Allassonnière-Tang, M., Kramer, M., Talamo, L., Verkerk, A., Wilmoth, S., Rodriguez, G., Gupton, T., Kidd, E., Liu, Z., Naccarato, C., Nordlinger, R., Panova, A. & Stoynova, N.  (2023). Why we need a gradient approach to word order. <i>Linguistics, 61</i>(4), 825–883. <a target="_blank">https://doi.org/10.1515/ling-2021-0098</a> <a target="_blank" href="/docs/dLevshinaNamboodiripadEtAl2023_GradientWordOrder.pdf">[pdf]</a>
+Levshina, N., Namboodiripad, S., Allassonnière-Tang, M., Kramer, M., Talamo, L., Verkerk, A., Wilmoth, S., Rodriguez, G., Gupton, T., Kidd, E., Liu, Z., Naccarato, C., Nordlinger, R., Panova, A. & Stoynova, N.  (2023). Why we need a gradient approach to word order. <i>Linguistics, 61</i>(4), 825–883. <a target="_blank">https://doi.org/10.1515/ling-2021-0098</a> <a target="_blank" href="/docs/LevshinaNamboodiripadEtAl2023_GradientWordOrder.pdf">[pdf]</a>
 
 de Hoop, H., Levshina, N., & Segers, M. (2023). The effect of the use of T or V pronouns in Dutch HR communication. <i>Journal of Pragmatics, 203</i>, 96–109. <a target="_blank">https://doi.org/10.1016/j.pragma.2022.11.017</a> <a target="_blank" href="/docs/deHoopLevshinaSegers2023_JPragmatics.pdf">[pdf]</a>   
 
