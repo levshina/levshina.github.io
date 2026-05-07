@@ -38,11 +38,11 @@ Ebert, C., Levshina, N., & Widmer, P. (2023). ParTree - Parallel Treebanks: A mu
 Thothathiri, M., & Levshina, N. (2023). Updating constructions: additive effects of prior and current experience during sentence production. <i>Cognitive Linguistics, 34</i>(3–4), 479–502. <a target="_blank" href="https://doi.org/10.1515/cog-2022-0020">https://doi.org/10.1515/cog-2022-0020</a> <a target="_blank" href="/docs/ThothathiriLevshina2023_CogLing_withPages.pdf">[pdf]</a>
 
 ## 2022
-Levshina, N. (2022). Frequency, informativity and word length: Insights from typologically diverse corpora. <i>Entropy, 24</i>(2), 280. <a target="_blank" href=">https://doi.org/10.3390/e24020280</a> [pdf]
+Levshina, N. (2022). Frequency, informativity and word length: Insights from typologically diverse corpora. <i>Entropy, 24</i>(2), 280. <a target="_blank" href="https://doi.org/10.3390/e24020280"> https://doi.org/10.3390/e24020280 </a> [pdf]
 
 Levshina, N. (2022). <i>Communicative Efficiency: Language Structure and Use</i>. Cambridge University Press. <a target="_blank" href="https://doi.org/10.1017/9781108887809"> https://doi.org/10.1017/9781108887809 </a> <a target="_blank" href="https://cambridgeblog.org/2022/11/an-introduction-to-communicative-efficiency/"> Summary (Cambridge Press blog) </a>  
 
-Levshina, N. (2022). Comparing Bayesian and frequentist models of language variation: The case of help + (to) Infinitive. In O. Schützler & J. Schlüter (Eds.), <i>Data and methods in corpus linguistics – Comparative Approaches</i> (pp. 224–258). Cambridge University Press. [pdf (draft]]
+Levshina, N. (2022). Comparing Bayesian and frequentist models of language variation: The case of help + (to) Infinitive. In O. Schützler & J. Schlüter (Eds.), <i>Data and methods in corpus linguistics – Comparative Approaches</i> (pp. 224–258). Cambridge University Press. [pdf (draft)]
 
 Levshina, N. (2022). Corpus-based typology: applications, challenges and some solutions. <i>Linguistic Typology, 26</i>(1), 129–160. <a target="_blank" href=">https://doi.org/10.1515/lingty-2020-0118"> https://doi.org/10.1515/lingty-2020-0118 </a>  [pdf]
 
@@ -50,9 +50,9 @@ Levshina, N. (2022). Semantic maps of causation: New hybrid approaches based on 
 
 Levshina, N. (2022). Testing communicative and learning biases in a causal model of language evolution: A study of cues to Subject and Object. In <i>Proceedings of the 23rd Amsterdam Colloquium</i> (pp. 383–387). <a target="_blank" href="https://www.dropbox.com/s/umjf5rn8mjq3rbx/Proceedings2022.pdf?dl=0"> https://www.dropbox.com/s/umjf5rn8mjq3rbx/Proceedings2022.pdf?dl=0 </a> [pdf]
 
-Levshina, N., & Lorenz, D. (2022). Communicative efficiency and the Principle of No Synonymy: Predictability effects and the variation of want to and wanna. <i>Language and Cognition, 14</i>(2), 249–274. <a target="_blank" href="https://doi.org/10.1017/langcog.2022.7"> href="https://doi.org/10.1017/langcog.2022.7 </a> [pdf]
-
 Levshina, N., & Hawkins, J.A. (2022). Verb-argument lability and its correlations with other typological parameters. A quantitative corpus-based study. <i>Linguistic Typology at the Crossroads, 2</i>(1), 94–120. <a target="_blank" href="https://doi.org/10.6092/issn.2785-0943/13861"> https://doi.org/10.6092/issn.2785-0943/13861 </a> [pdf]
+
+Levshina, N., & Lorenz, D. (2022). Communicative efficiency and the Principle of No Synonymy: Predictability effects and the variation of want to and wanna. <i>Language and Cognition, 14</i>(2), 249–274. <a target="_blank" href="https://doi.org/10.1017/langcog.2022.7"> href="https://doi.org/10.1017/langcog.2022.7 </a> [pdf]
 
 
 ## 2021 and earlier
