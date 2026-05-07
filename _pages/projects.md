@@ -31,4 +31,4 @@ With this study, we hope to understand how people from different cultures and sp
 </ul>
 
 ### Funding
-The Centre of Language Studies (Radboud University) research grants 2024-2026
+The Centre of Language Studies (Radboud University), 2024-2026
