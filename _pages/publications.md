@@ -14,11 +14,11 @@ Levshina, N. (In press). Communicative efficiency and semantics: Language variat
 Levshina, N. (2025). A Bayesian dawn in linguistics: Trends, benefits and good practices. <i>arXiv</i>.
 <a target="_blank" href = "https://doi.org/10.48550/arXiv.2509.17161">[doi]</a> <a target="_blank" href="/docs/Levshina2025_BayesianRegression_Preprint.pdf"> [pdf] </a>
 
-Levshina, N. (2025). Efficiency in Language Change. <i>Reference Module in Social Sciences</i>. Elsevier. <a target="_blank" href = "https://doi.org/10.1016/B978-0-323-95504-1.00881-4">[doi]</a><a target="_blank" href="/docs/Levshina2025_EfficiencyLanguageChange.pdf"> [pdf (draft)] </a>
+Levshina, N. (2025). Efficiency in Language Change. <i>Reference Module in Social Sciences</i>. Elsevier. <a target="_blank" href = "https://doi.org/10.1016/B978-0-323-95504-1.00881-4">[doi]</a> <a target="_blank" href="/docs/Levshina2025_EfficiencyLanguageChange.pdf"> [pdf (draft)] </a>
 
 Levshina, N. (2025). The paradox of SOV: A case for token-based typology. <i>Glottometrics, 59</i>(2), 1–23. <a target="_blank" href="https://doi.org/10.53482/2025_59_425">[doi]</a> <a target="_blank" href="/docs/Levshina2025_ParadoxSOV_Glottometrics.pdf"> [pdf] </a>
 
-de Hoop, H., Levshina, N., Sadowski, S., & Schoenmakers, G.-J. (2025). Generalizing or personalizing: effects of three types of second person pronouns in service ads. <i>Dutch Journal of Applied Linguistics, 14</i>. <a target="_blank" href="https://doi.org/10.51751/dujal19032">[doi]</a><a target="_blank" href="/docs/deHoopEtAl2025_DuJAL.pdf"> [pdf] </a>
+de Hoop, H., Levshina, N., Sadowski, S., & Schoenmakers, G.-J. (2025). Generalizing or personalizing: effects of three types of second person pronouns in service ads. <i>Dutch Journal of Applied Linguistics, 14</i>. <a target="_blank" href="https://doi.org/10.51751/dujal19032">[doi]</a> <a target="_blank" href="/docs/deHoopEtAl2025_DuJAL.pdf"> [pdf] </a>
 
 ## 2024
 
@@ -35,7 +35,7 @@ de Hoop, H., Levshina, N., & Segers, M. (2023). The effect of the use of T or V 
 
 Ebert, C., Levshina, N., & Widmer, P. (2023). ParTree - Parallel Treebanks: A multilingual corpus of movie subtitles. (Version 1.0.0) [Data set]. LaRS - Language Repository of Switzerland. <a target="_blank" href="https://doi.org/10.48656/5mz4-x435">[doi]</a>
 
-Thothathiri, M., & Levshina, N. (2023). Updating constructions: additive effects of prior and current experience during sentence production. <i>Cognitive Linguistics, 34</i>(3–4), 479–502. <a target="_blank" href="https://doi.org/10.1515/cog-2022-0020">[doi]</a><a target="_blank" href="/docs/ThothathiriLevshina2023_CogLing_withPages.pdf"> [pdf] </a>
+Thothathiri, M., & Levshina, N. (2023). Updating constructions: additive effects of prior and current experience during sentence production. <i>Cognitive Linguistics, 34</i>(3–4), 479–502. <a target="_blank" href="https://doi.org/10.1515/cog-2022-0020">[doi]</a> <a target="_blank" href="/docs/ThothathiriLevshina2023_CogLing_withPages.pdf"> [pdf] </a>
 
 ## 2022
 Levshina, N. (2022). Frequency, informativity and word length: Insights from typologically diverse corpora. <i>Entropy, 24</i>(2), 280. <a target="_blank" href="https://doi.org/10.3390/e24020280">[doi]</a> <a target="_blank" href="/docs/Levshina2022_Entropy.pdf"> [pdf] </a>
