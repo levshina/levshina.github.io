@@ -63,7 +63,7 @@ Levshina, N. (2021). Communicative efficiency and differential case marking: A r
 
 Levshina, N. (2021). The grammar network: How linguistic structure is shaped by language use. By Holger Diessel. Cambridge: Cambridge University Press, 2019. Pp. xviii, 290. ISBN 9781108671040. $110 (Hb). <i>Language, 97</i>(4), 825–830. <a target="_blank" href="http://dx.doi.org/10.1353/lan.2021.0066">[doi]</a> <a target="_blank" href="/docs/Levshina_review_grammar_network.pdf"> [pdf] </a>
 
-Levshina, N., & Moran, S. (2021). Efficiency in human languages: corpus evidence for universal principles. <i>Linguistics Vanguard, 7(s3)</i>, 20200081. <a target="_blank" href="https://doi.org/10.1515/lingvan-2020-0081">[doi]</a> <a target="_blank" href="/docs/LevshinaMoran_2021_LingVan.pdf"> [pdf] </a>
+Levshina, N., & Moran, S. (2021). Efficiency in human languages: corpus evidence for universal principles. <i>Linguistics Vanguard, 7(s3)</i>, 20200081. <a target="_blank" href="https://doi.org/10.1515/lingvan-2020-0081">[doi]</a> <a target="_blank" href="/docs/LevshinaMoran2021_LingVan.pdf"> [pdf] </a>
 
 Sommer, N., & Levshina, N. (2021). Cross-linguistic differential and optional marking database (v1.0.0) [Data set]. Zenodo. <a target="_blank" href="https://doi.org/10.5281/zenodo.4896007"> [doi] </a>
 
