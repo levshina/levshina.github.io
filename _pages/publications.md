@@ -57,13 +57,13 @@ Levshina, N., & Lorenz, D. (2022). Communicative efficiency and the Principle of
 
 ## 2021
 
-Levshina, N. (2021). Cross-linguistic trade-offs and causal relationships between cues to grammatical subject and object, and the problem of efficiency-related explanations. <i>Frontiers in Psychology, 12</i>, 648200. <a target="_blank" href="https://doi.org/10.3389/fpsyg.2021.648200"> [doi] </a> <a target="_blank" href="/docs/Levshina2021_Frontiers.pdf"> [pdf] </a>
+Levshina, N. (2021). Cross-linguistic trade-offs and causal relationships between cues to grammatical subject and object, and the problem of efficiency-related explanations. <i>Frontiers in Psychology, 12</i>, 648200. <a target="_blank" href="https://doi.org/10.3389/fpsyg.2021.648200">[doi]</a> <a target="_blank" href="/docs/Levshina2021_Frontiers.pdf"> [pdf] </a>
 
-Levshina, N. (2021). Communicative efficiency and differential case marking: A reverse-engineering approach. <i>Linguistics Vanguard</i>, 7(s3), 20190087. <a target="_blank" href="https://doi.org/10.1515/lingvan-2019-0087"> [doi] </a> <a target="_blank" href="/docs/Levshina2021_LingVan.pdf"> [pdf] </a>
+Levshina, N. (2021). Communicative efficiency and differential case marking: A reverse-engineering approach. <i>Linguistics Vanguard</i>, 7(s3), 20190087. <a target="_blank" href="https://doi.org/10.1515/lingvan-2019-0087">[doi]</a> <a target="_blank" href="/docs/Levshina2021_LingVan.pdf"> [pdf] </a>
 
-Levshina, N. (2021). The grammar network: How linguistic structure is shaped by language use. By Holger Diessel. Cambridge: Cambridge University Press, 2019. Pp. xviii, 290. ISBN 9781108671040. $110 (Hb). <i>Language, 97</i>(4), 825–830. <a target="_blank" href="http://dx.doi.org/10.1353/lan.2021.0066"> [doi] </a> <a target="_blank" href="/docs/Levshina_review_grammar_network.pdf"> [pdf] </a>
+Levshina, N. (2021). The grammar network: How linguistic structure is shaped by language use. By Holger Diessel. Cambridge: Cambridge University Press, 2019. Pp. xviii, 290. ISBN 9781108671040. $110 (Hb). <i>Language, 97</i>(4), 825–830. <a target="_blank" href="http://dx.doi.org/10.1353/lan.2021.0066">[doi]</a> <a target="_blank" href="/docs/Levshina_review_grammar_network.pdf"> [pdf] </a>
 
-Levshina, N., & Moran, S. (2021). Efficiency in human languages: corpus evidence for universal principles. <i>Linguistics Vanguard, 7(s3)</i>, 20200081. <a target="_blank" href="https://doi.org/10.1515/lingvan-2020-0081"> [doi] </a> </a> <a target="_blank" href="/docs/LevshinaMoran_2021_LingVan.pdf"> [pdf] </a>
+Levshina, N., & Moran, S. (2021). Efficiency in human languages: corpus evidence for universal principles. <i>Linguistics Vanguard, 7(s3)</i>, 20200081. <a target="_blank" href="https://doi.org/10.1515/lingvan-2020-0081">[doi]</a> <a target="_blank" href="/docs/LevshinaMoran_2021_LingVan.pdf"> [pdf] </a>
 
 Sommer, N., & Levshina, N. (2021). Cross-linguistic differential and optional marking database (v1.0.0) [Data set]. Zenodo. <a target="_blank" href="https://doi.org/10.5281/zenodo.4896007"> [doi] </a>
 
