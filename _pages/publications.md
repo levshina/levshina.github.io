@@ -67,6 +67,12 @@ Levshina, N., & Moran, S. (2021). Efficiency in human languages: corpus evidence
 
 Sommer, N., & Levshina, N. (2021). Cross-linguistic differential and optional marking database (v1.0.0) [Data set]. Zenodo. <a target="_blank" href="https://doi.org/10.5281/zenodo.4896007"> [doi] </a>
 
-## 2020 and earlier
+## 2020
+Levshina, N. (2020). Conditional inference trees and random forests. In M. Paquot & S. Th. Gries (Eds.), <i>Practical Handbook of Corpus Linguistics</i> (pp. 611–643). Springer. <a target="_blank" href="https://doi.org/10.1007/978-3-030-46216-1_25">[doi]</a> <a target="_blank" href="/docs/Levshina2020_Trees&Forests.pdf"> [pdf] </a>
+Levshina, N. (2020). Efficient trade-offs as explanations in functional linguistics: some problems and an alternative proposal. <i>Revista da ABRALIN, 19</i>(3), 50–78. <a target="_blank" href="https://doi.org/10.25189/rabralin.v19i3.1728">[doi]</a> <a target="_blank" href="/docs/Levshina2020_ABRALIN.pdf"> [pdf] </a>
+Levshina, N. (2020). How tight is your language? A semantic typology based on Mutual Information. In <i>Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories</i> (pp. 70–78). ACL. <a target="_blank" href="https://www.aclweb.org/anthology/2020.tlt-1.7.pdf">[pdf]</a>
+
+
+## 2019 and earlier
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
