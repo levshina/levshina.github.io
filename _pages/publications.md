@@ -85,6 +85,13 @@ Levshina, N. (2019). Universal Dependencies in a galaxy far, far away… What ma
 
 Schmidtke-Bode, K., Levshina, N., Michaelis, S.M., & Seržant, I.A. (Eds.). (2019). <i>Explanation in linguistic typology: Diachronic sources, functional motivations and the nature of the evidence</i>. Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/220">[URL]</a>  <a target="_blank" href ="/docs/SchmidtkeBodeEtAl2019_ExplanationsTypology.pdf"> [pdf] </a>
 
-## 2018 and earlier
+## 2018 
+Levshina, N. (2018). Anybody (at) home? Communicative efficiency knocking on the Construction Grammar door. <i>Yearbook of the German Cognitive Linguistics Association, 6</i>, 71–90. <a target="_blank" href="https://doi.org/10.1515/gcla-2018-0004">[doi]</a> <a target="_blank" href="/docs/Levshina2018_atHome.pdf"> [pdf] </a> 
+Levshina, N. (2018[2016]).  Finding the best fit for direct and indirect causation: a typological study. <i>Lingua Posnaniensis, 58</i>(2), 65–83. <a target="_blank" href="https://doi.org/10.1515/linpo-2016-0010">[doi]</a> <a target="_blank" href="/docs/Levshina2016_LinguaPosnaniensis.pdf"> [pdf] </a>
+Levshina, N. (2018). Probabilistic grammar and constructional predictability: Bayesian generalized additive mixed-effects models of help + (to) Infinitive in varieties of web-based English. <i>Glossa, 3</i>(1), 1–22. <a target="_blank" href="http://doi.org/10.5334/gjgl.294">[doi]</a> <a target="_blank" href="/docs/Levshina2018_help_Glossa.pdf"> [pdf] </a>
+Levshina, N. (2018). <i>Towards a Theory of Communicative Efficiency in Human Languages</i>. Habilitation thesis, Leipzig University. <a target="_blank" href="https://doi.org/10.5281/zenodo.1542857">[doi]</a> <a target="_blank" href="/docs/Levshina2018_Habilitation.pdf"> [pdf] </a>
+Schmidtke-Bode, K. & Levshina, N. (2018). Assessing case effects on differential case marking: methodological, conceptual and theoretical issues in the quest for a universal. In I.A. Seržant & A. Witzlack-Makarevich (Eds.), <i>Diachrony of Differential Argument Marking</i> (pp. 509–537). Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/173">[URL]</a> <a target="_blank" href ="/docs/SchmidtkeBodeLevshina_DCM.pdf"> [pdf] </a> 
+
+## 2017 and earlier
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
