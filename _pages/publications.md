@@ -94,7 +94,7 @@ Levshina, N. (2018). Probabilistic grammar and constructional predictability: Ba
 
 Levshina, N. (2018). <i>Towards a Theory of Communicative Efficiency in Human Languages</i>. Habilitation thesis, Leipzig University. <a target="_blank" href="https://doi.org/10.5281/zenodo.1542857">[doi]</a> <a target="_blank" href="/docs/Levshina2018_Habilitation.pdf"> [pdf] </a>
 
-Schmidtke-Bode, K. & Levshina, N. (2018). Assessing case effects on differential case marking: methodological, conceptual and theoretical issues in the quest for a universal. In I.A. Seržant & A. Witzlack-Makarevich (Eds.), <i>Diachrony of Differential Argument Marking</i> (pp. 509–537). Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/173">[URL]</a> <a target="_blank" href ="/docs/SchmidtkeBodeLevshina_DCM.pdf"> [pdf] </a> 
+Schmidtke-Bode, K. & Levshina, N. (2018). Assessing case effects on differential case marking: methodological, conceptual and theoretical issues in the quest for a universal. In I.A. Seržant & A. Witzlack-Makarevich (Eds.), <i>Diachrony of Differential Argument Marking</i> (pp. 509–537). Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/173">[URL]</a> <a target="_blank" href ="/docs/SchmidtkeBodeLevshina2018_DCM.pdf"> [pdf] </a> 
 
 ## 2017 and earlier
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
