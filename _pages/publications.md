@@ -75,6 +75,16 @@ Levshina, N. (2020). Efficient trade-offs as explanations in functional linguist
 Levshina, N. (2020). How tight is your language? A semantic typology based on Mutual Information. In <i>Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories</i> (pp. 70–78). ACL. <a target="_blank" href="https://www.aclweb.org/anthology/2020.tlt-1.7.pdf">[pdf]</a>
 
 
-## 2019 and earlier
+## 2019 
+
+Levshina, N. (2019). Linguistic Frankenstein, or How to test universal constraints without real languages. In K. Schmidtke-Bode, N. Levshina, S.M. Michaelis & I.A. Seržant (Eds.), <i>Explanation in linguistic typology: Diachronic sources, functional motivations and the nature of the evidence</i> (pp. 203-223). Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/220">[URL]</a> <a target="_blank" href="/docs/Levshina2019_Frankenstein.pdf"> [pdf] </a>
+
+Levshina, N. (2019). Token-based typology and word order entropy:  A study based on Universal Dependencies. <i>Linguistic Typology, 23</i>(3), 533–572. <a target="_blank" href="https://doi.org/10.1515/lingty-2019-0025">[doi]</a> <a target="_blank" href="/docs/Levshina2019_LingTyp.pdf"> [pdf] </a>
+
+Levshina, N. (2019). Universal Dependencies in a galaxy far, far away… What makes Yoda’s English truly alien. In <i>Proceedings of SyntaxFest</i>, August 26–30 2019, Paris.  <a target="_blank" href="https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_21.pdf"> [pdf] </a> 
+
+Schmidtke-Bode, K., Levshina, N., Michaelis, S.M., & Seržant, I.A. (Eds.). (2019). <i>Explanation in linguistic typology: Diachronic sources, functional motivations and the nature of the evidence</i>. Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/220">[URL]</a>  <a target="_blank" href ="/docs/SchmidtkeBodeEtAl2019_ExplanationsTypology.pdf"> [pdf] </a>
+
+## 2018 and earlier
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
