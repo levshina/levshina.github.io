@@ -103,7 +103,7 @@ Levshina, N. (2017). Communicative efficiency and syntactic predictability: A cr
 
 Levshina, N. (2017). Measuring iconicity: A quantitative study of lexical and analytic causatives in British English. <i>Functions of Language, 24</i>(3), 319–347. <a target="_blank" href ="https://doi.org/10.1075/fol.15013.lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2017_FoL.pdf"> [pdf] </a> 
 
-Levshina, N. (2017). Online film subtitles as a corpus: An n-gram approach. <i>Corpora, 12</i>(3), 311–338.  <a target="_blank" href ="http://dx.doi.org/10.3366/cor.2017.0123>[doi]</a> <a target="_blank" href ="/docs/Levshina2017_Corpora_draft.pdf"> [pdf (draft)] </a> 
+Levshina, N. (2017). Online film subtitles as a corpus: An n-gram approach. <i>Corpora, 12</i>(3), 311–338.  <a target="_blank" href ="http://dx.doi.org/10.3366/cor.2017.0123">[doi]</a> <a target="_blank" href ="/docs/Levshina2017_Corpora_draft.pdf"> [pdf (draft)] </a> 
 
 Levshina, N., & Degand, L. (2017). Just because: In search of objective criteria of subjectivity in causal connectives. <i>Dialogue and Discourse, 8</i>(1), 132–150. <a target="_blank" href ="https://doi.org/10.5087/dad.2017.105">[doi]</a> <a target="_blank" href ="/docs/LevshinaDegand2017_because.pdf"> [pdf] </a> 
 
