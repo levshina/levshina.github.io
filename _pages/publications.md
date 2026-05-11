@@ -96,6 +96,17 @@ Levshina, N. (2018). <i>Towards a Theory of Communicative Efficiency in Human La
 
 Schmidtke-Bode, K. & Levshina, N. (2018). Assessing case effects on differential case marking: methodological, conceptual and theoretical issues in the quest for a universal. In I.A. Seržant & A. Witzlack-Makarevich (Eds.), <i>Diachrony of Differential Argument Marking</i> (pp. 509–537). Language Science Press. <a target="_blank" href="https://langsci-press.org/catalog/book/173">[URL]</a> <a target="_blank" href ="/docs/SchmidtkeBodeLevshina2018_DCM.pdf"> [pdf] </a> 
 
-## 2017 and earlier
+## 2017 
+Levshina, N. (2017). A multivariate study of T/V forms in European languages based on a parallel corpus of film subtitles. <i>Research in Language, 15</i>(2), 153–172. <a target="_blank" href="https://doi.org/10.1515/rela-2017-0010">[doi]</a> <a target="_blank" href ="/docs/Levshina2017_TV.pdf"> [pdf] </a> 
+
+Levshina, N. (2017). Communicative efficiency and syntactic predictability: A crosslinguistic study based on the Universal Dependencies corpora. In <i>Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017)</i>, Gothenburg, Sweden, 22 May 2017 (pp. 72–78). ACL. <a target="_blank" href ="https://aclanthology.org/W17-0409/">[URL]</a> <a target="_blank" href ="/docs/Levshina2017_UDW.pdf"> [pdf] </a> 
+
+Levshina, N. (2017). Measuring iconicity: A quantitative study of lexical and analytic causatives in British English. <i>Functions of Language, 24</i>(3), 319–347. <a target="_blank" href ="https://doi.org/10.1075/fol.15013.lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2017_FoL.pdf"> [pdf] </a> 
+
+Levshina, N. (2017). Online film subtitles as a corpus: An n-gram approach. <i>Corpora, 12</i>(3), 311–338.  <a target="_blank" href ="http://dx.doi.org/10.3366/cor.2017.0123>[doi]</a> <a target="_blank" href ="/docs/Levshina2017_Corpora_draft.pdf"> [pdf (draft)] </a> 
+
+Levshina, N., & Degand, L. (2017). Just because: In search of objective criteria of subjectivity in causal connectives. <i>Dialogue and Discourse, 8</i>(1), 132–150. <a target="_blank" href ="https://doi.org/10.5087/dad.2017.105">[doi]</a> <a target="_blank" href ="/docs/LevshinaDegand2017_because.pdf"> [pdf] </a> 
+
+## 2016 and earlier
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
