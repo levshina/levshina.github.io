@@ -9,6 +9,11 @@ title: Publications
 
 Levshina, N. (In press). Communicative efficiency and semantics: Language variation, universals and change. In P. Mondal (Ed.), <i>Handbook of Linguistic Semantics - Bridging Theory, Philosophy and Cognition</i>. Springer. <a target="_blank" href="/docs/Levshina2026_HandbookLinguisticSemantics.pdf"> [pdf (draft)] </a>
 
+## 2026
+
+Levshina, N. (2026). Which languages are “hot”, and which are “cool”? Using Universal Dependencies for large-scale comparisons of subject
+Expression. In <i>Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026)</i>, Palma de Mallorca, May 16, 2026 (pp. 49–53). ELRA  <a target="_blank" href = "http://lrec-conf.org/proceedings/lrec2026/workshops/udw/2026.udw-1.0.pdf">[pdf (book of abstracts)]</a>
+
 ## 2025
 
 Levshina, N. (2025). A Bayesian dawn in linguistics: Trends, benefits and good practices. <i>arXiv</i>.
@@ -29,6 +34,7 @@ Levshina, N. (2024). Word classes in corpus linguistics. In E. van Lier (Ed.), <
 Ariel, M.,  & Levshina, N. (2024). The counting principle makes number words unique. <i>Corpus Linguistics and Linguistic Theory, 21</i>(1), 173-199. <a target="_blank" href="https://doi.org/10.1515/cllt-2023-0105">[doi]</a> <a target="_blank" href="/docs/ArielLevshina2024_CLLT.pdf"> [pdf] </a>
 
 ## 2023
+
 Levshina, N., Namboodiripad, S., Allassonnière-Tang, M., Kramer, M., Talamo, L., Verkerk, A., Wilmoth, S., Rodriguez, G., Gupton, T., Kidd, E., Liu, Z., Naccarato, C., Nordlinger, R., Panova, A. & Stoynova, N.  (2023). Why we need a gradient approach to word order. <i>Linguistics, 61</i>(4), 825–883. <a target="_blank" href="https://doi.org/10.1515/ling-2021-0098">[doi]</a> <a target="_blank" href="/docs/LevshinaNamboodiripadEtAl2023_GradientWordOrder.pdf"> [pdf] </a>
 
 de Hoop, H., Levshina, N., & Segers, M. (2023). The effect of the use of T or V pronouns in Dutch HR communication. <i>Journal of Pragmatics, 203</i>, 96–109. <a target="_blank" href="https://doi.org/10.1016/j.pragma.2022.11.017">[doi]</a> <a target="_blank" href="/docs/deHoopLevshinaSegers2023_JPragmatics.pdf"> [pdf]</a>   
@@ -38,6 +44,7 @@ Ebert, C., Levshina, N., & Widmer, P. (2023). ParTree - Parallel Treebanks: A mu
 Thothathiri, M., & Levshina, N. (2023). Updating constructions: additive effects of prior and current experience during sentence production. <i>Cognitive Linguistics, 34</i>(3–4), 479–502. <a target="_blank" href="https://doi.org/10.1515/cog-2022-0020">[doi]</a> <a target="_blank" href="/docs/ThothathiriLevshina2023_CogLing_withPages.pdf"> [pdf] </a>
 
 ## 2022
+
 Levshina, N. (2022). Frequency, informativity and word length: Insights from typologically diverse corpora. <i>Entropy, 24</i>(2), 280. <a target="_blank" href="https://doi.org/10.3390/e24020280">[doi]</a> <a target="_blank" href="/docs/Levshina2022_Entropy.pdf"> [pdf] </a>
 
 Levshina, N. (2022). <i>Communicative Efficiency: Language Structure and Use</i>. Cambridge University Press. <a target="_blank" href="https://doi.org/10.1017/9781108887809">[doi]</a> <a target="_blank" href="https://cambridgeblog.org/2022/11/an-introduction-to-communicative-efficiency/"> [blog post] </a>  
