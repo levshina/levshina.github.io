@@ -114,6 +114,21 @@ Levshina, N. (2017). Online film subtitles as a corpus: An n-gram approach. <i>C
 
 Levshina, N., & Degand, L. (2017). Just because: In search of objective criteria of subjectivity in causal connectives. <i>Dialogue and Discourse, 8</i>(1), 132–150. <a target="_blank" href ="https://doi.org/10.5087/dad.2017.105">[doi]</a> <a target="_blank" href ="/docs/LevshinaDegand2017_because.pdf"> [pdf] </a> 
 
-## 2016 and earlier
+## 2016 
+
+Divjak, D., Levshina, N., & Klavan, J. (2016). Looking back, looking forward: The many faces of Cognitive Linguistics. <i>Cognitive Linguistics, 27</i>(4), 447–464. <a target="_blank" href ="https://doi.org/10.1515/cog-2016-0095">[doi]</a> <a target="_blank" href ="/docs/DivjakEtAl2016_CogLing.pdf"> [pdf] </a>
+
+Levshina, N. (2016). A geometric exemplar-based model of semantic structure: The Dutch causative construction with laten. In J. Yoon & S. Th. Gries (Eds.), <i>Construction Grammar beyond English: </i> (pp. 241–262). <a target="_blank" href ="https://doi.org/10.1075/cal.19.09lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2016_laten_draft.pdf"> [pdf (draft)] </a>
+
+Levshina, N. (2016). Control, causation and Google counts. <i>Nederlandse Taalkunde, 21</i>(2), 253–263. <a target="_blank" href ="https://doi.org/10.5117/NEDTAA2016.2.LEVS"> [doi] </a> <a target="_blank" href ="/docs/Levshina2016_Control.pdf"> [pdf] </a>
+
+Levshina, N. (2016). Verbs of letting in Germanic and Romance languages: A quantitative investigation based on a parallel corpus of film subtitles. <i>Languages in Contrast, 16</i>(1), 84–117.  <a target="_blank" href ="https://doi.org/10.1075/lic.16.1.04lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2016_LiC_Letting.pdf"> [pdf] </a> 
+
+Levshina, N. (2016). When variables align: A Bayesian multinomial mixed-effects model of English permissive constructions. <i>Cognitive Linguistics, 27</i>(2), 235–268. <a target="_blank" href ="https://doi.org/10.1515/cog-2015-0054">[doi]</a> <a target="_blank" href ="/docs/Levshina2016_CogLing_Letting.pdf"> [pdf] </a> 
+
+Levshina, N. (2016). Why we need a token-based typology: A case study of analytic and lexical causatives in fifteen European languages. <i>Folia Linguistica, 50</i>(2), 507–542. <a target="_blank" href ="https://doi.org/10.1515/flin-2016-0019">[doi]</a> <a target="_blank" href ="/docs/Levshina2016_FoliaLinguistica.pdf"> [pdf] </a> 
+
+
+## 2015 and earlier
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
