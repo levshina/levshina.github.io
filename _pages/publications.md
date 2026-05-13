@@ -115,6 +115,8 @@ Levshina, N. (2017). Measuring iconicity: A quantitative study of lexical and an
 
 Levshina, N. (2017). Online film subtitles as a corpus: An n-gram approach. <i>Corpora, 12</i>(3), 311–338.  <a target="_blank" href ="http://dx.doi.org/10.3366/cor.2017.0123">[doi]</a> <a target="_blank" href ="/docs/Levshina2017_Corpora_draft.pdf"> [pdf (draft)] </a> 
 
+Levshina, N. 2017. SÉMANTICKÁ MAPA (Semantic maps). In P. Karlík, M. Nekula, J. Pleskalová (eds.) Nový encyklopedický slovník češtiny (New Encyclopedic Dictionary of Czech). Nakladatelství Lidové noviny. <a target="_blank" href ="http://dx.doi.org/10.3366/cor.2017.0123">[URL (in Czech)]</a> <a target="_blank" href ="/docs/Levshina2017_SemanticMaps.pdf"> [pdf (English version)] </a> 
+
 Levshina, N., & Degand, L. (2017). Just because: In search of objective criteria of subjectivity in causal connectives. <i>Dialogue and Discourse, 8</i>(1), 132–150. <a target="_blank" href ="https://doi.org/10.5087/dad.2017.105">[doi]</a> <a target="_blank" href ="/docs/LevshinaDegand2017_because.pdf"> [pdf] </a> 
 
 ## 2016 
@@ -132,6 +134,15 @@ Levshina, N. (2016). When variables align: A Bayesian multinomial mixed-effects 
 Levshina, N. (2016). Why we need a token-based typology: A case study of analytic and lexical causatives in fifteen European languages. <i>Folia Linguistica, 50</i>(2), 507–542. <a target="_blank" href ="https://doi.org/10.1515/flin-2016-0019">[doi]</a> <a target="_blank" href ="/docs/Levshina2016_FoliaLinguistica.pdf"> [pdf] </a> 
 
 
-## 2015 and earlier
+## 2015 
+
+Levshina, N. (2015). European analytic causatives as a comparative concept: Evidence from a parallel corpus of film subtitles. <i>Folia Linguistica,  49</i>(2), 487–520. <a target="_blank" href ="https://doi.org/10.1515/flin-2015-0017">[doi]</a> <a target="_blank" href ="/docs/Levshina2015_FoliaLinguistica.pdf"> [pdf] </a> 
+
+Levshina, N. (2015). <i>How to Do Linguistics with R: Data exploration and statistical analysis</i>. John Benjamins. <a target="_blank" href ="https://doi.org/10.1075/z.195">[doi]</a>
+
+Levshina, N. (2015). How Europeans GIVE: A two-layered semantic typology based on parallel corpora. In B. Nolan, G. Rawoens & E. Diedrichsen (Eds.), <i>Causation, Permission, and Transfer: Argument realisation in GET, TAKE, PUT, GIVE and LET verbs</i> (pp. 147–175). John Benjamins. <a target="_blank" href ="https://doi.org/10.1075/slcs.167.05lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2015_GIVE.pdf"> [pdf] </a>  
+
+## 2014 and earlier
+
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
