@@ -142,7 +142,19 @@ Levshina, N. (2015). <i>How to Do Linguistics with R: Data exploration and stati
 
 Levshina, N. (2015). How Europeans GIVE: A two-layered semantic typology based on parallel corpora. In B. Nolan, G. Rawoens & E. Diedrichsen (Eds.), <i>Causation, Permission, and Transfer: Argument realisation in GET, TAKE, PUT, GIVE and LET verbs</i> (pp. 147–175). John Benjamins. <a target="_blank" href ="https://doi.org/10.1075/slcs.167.05lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2015_GIVE.pdf"> [pdf] </a>  
 
-## 2014 and earlier
+## 2014
+
+Gast, V., & Levshina, N. (2014). Motivating w(h)-clefts in English and German: A hypothesis-driven parallel corpus study. In A.-M. de Cesare (Ed.), <i>Frequency, Forms and Functions of Cleft Constructions in Romance and Germanic. Contrastive, Corpus-Based Studies</i> (pp. 377–414). De Gruyter Mouton. <a target="_blank" href = "https://doi.org/10.1515/9783110361872.377">[doi]</a> <a target="_blank" href ="/docs/Gast_Levshina_wclefts.pdf"> [pdf (draft)] </a>
+
+Levshina, N. (2014). Geographic variation of quite + ADJ in twenty national varieties of English: A pilot study. <i>Yearbook of the German Cognitive Linguistics Association, 2</i>(1), 109–126. <a target="_blank" href = "https://doi.org/10.1515/gcla-2014-0008">[doi]</a> <a target="_blank" href ="/docs/Levshina2014_quite.pdf"> [pdf] </a>
+
+Levshina, N. (2014). Putting meaning on the map: Integration of geographic and semantic variation in multivariate models of language use. In Ilja A. Seržant & Björn Wiemer (Eds.), <i>Contemporary approaches to dialectology: The area of North, Northwest Russian and Belarusian vernaculars. Slavica Bergensia, 13 </i> (pp. 37–52). University of Bergen. <a target="_blank" href ="/docs/Levshina2014_puttingMeaning.pdf"> [pdf] </a>
+
+Levshina, N., Geeraerts, D., & Speelman, D. (2014). Dutch causative constructions with doen and laten: Quantification of meaning and meaning of quantification. In D. Glynn & J. Robinson (Eds.), <i>Corpus Methods for Semantics: Quantitative studies in polysemy and synonymy</i> (pp. 377–414). John Benjamins. <a target="_blank" href = "https://doi.org/10.1075/hcp.43">[doi]</a> <a target="_blank" href ="/docs/LevshinaEtAl2014_doenLaten.pdf"> [pdf (draft)] </a>
+
+Levshina, N., & Heylen, K. (2014). A Radically Data-driven Construction Grammar: Experiments with Dutch causative constructions. In R. Boogaart, T. Colleman & G. Rutten (Eds.), <i>Extending the Scope of Construction Grammar</i> (pp. 17–46). Mouton de Gruyter.  <a target="_blank" href = "https://doi.org/10.1515/9783110366273.17">[doi]</a> <a target="_blank" href ="/docs/LevshinaHeylen2014_radically.pdf"> [pdf (draft)] </a> 
+
+## 2013 and earlier
 
 Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
