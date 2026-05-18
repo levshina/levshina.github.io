@@ -164,9 +164,9 @@ Levshina, N., Geeraerts, D., & Speelman, D. (2013). Towards a 3D-Grammar: Intera
 
 Levshina, N. (2012). Comparing constructicons: A usage-based analysis of the causative construction with doen in Netherlandic and Belgian Dutch. <i>Constructions and Frames, 4</i>(1), 76–101. <a target="_blank" href = "https://doi.org/10.1075/cf.4.1.04lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2012_Constructicons.pdf"> [pdf (draft)] </a>  
 
-Levshina, N., Geeraerts, D., & Speelman, D. 2011. Changing the world vs. changing the mind: Distinctive collexeme analysis of the causative construction with doen in Belgian and Netherlandic Dutch. In F. Gregersen, J. Parrot and P. Quist (eds.), <i>Language variation - European perspectives III. Selected papers from the 5th International Conference on Language Variation in Europe</i>, Copenhagen, June 2009 (pp. 111–122). John Benjamins.  <a target="_blank" href = "https://doi.org/10.1075/silv.7.09lev">[doi]</a>
+Levshina, N., Geeraerts, D., & Speelman, D. (2011). Changing the world vs. changing the mind: Distinctive collexeme analysis of the causative construction with doen in Belgian and Netherlandic Dutch. In F. Gregersen, J. Parrot and P. Quist (Eds.), <i>Language variation - European perspectives III. Selected papers from the 5th International Conference on Language Variation in Europe</i>, Copenhagen, June 2009 (pp. 111–122). John Benjamins.  <a target="_blank" href = "https://doi.org/10.1075/silv.7.09lev">[doi]</a>
 
-Levshina, Natalia. 2011. Doe wat je niet laten kan [Do what you cannot let]: A usage-based analysis of Dutch causative constructions. PhD dissertation, University of Leuven. <a target="_blank" href ="/docs/Levshina2011_PhD.pdf"> [pdf] </a>  
+Levshina, N. (2011). Doe wat je niet laten kan (Do what you cannot let): A usage-based analysis of Dutch causative constructions. PhD dissertation, University of Leuven. <a target="_blank" href ="/docs/Levshina2011_PhD.pdf"> [pdf] </a>  
 
 Levshina, N. (2006). Kosvennyje rečevyje taktiki v predvybornom diskurse (Indirect speech tactics in pre-election discourse). Thesis for the degree of candidate of philological sciences, Sankt Petersburg State University.
 
