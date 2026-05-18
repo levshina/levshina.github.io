@@ -154,7 +154,21 @@ Levshina, N., Geeraerts, D., & Speelman, D. (2014). Dutch causative construction
 
 Levshina, N., & Heylen, K. (2014). A Radically Data-driven Construction Grammar: Experiments with Dutch causative constructions. In R. Boogaart, T. Colleman & G. Rutten (Eds.), <i>Extending the Scope of Construction Grammar</i> (pp. 17–46). Mouton de Gruyter.  <a target="_blank" href = "https://doi.org/10.1515/9783110366273.17">[doi]</a> <a target="_blank" href ="/docs/LevshinaHeylen2014_radically.pdf"> [pdf (draft)] </a> 
 
-## 2013 and earlier
+## 2013 
 
-Under construction. See my full publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
+Levshina, N., Geeraerts, D., & Speelman, D. (2013). Mapping constructional spaces: A contrastive analysis of English and Dutch analytic causatives. <i>Linguistics, 51</i>(4), 825–854.  <a target="_blank" href = "https://doi.org/10.1515/ling-2013-0028">[doi]</a> <a target="_blank" href ="/docs/LevshinaEtAl2013_Linguistics.pdf"> [pdf] </a> 
+
+Levshina, N., Geeraerts, D., & Speelman, D. (2013). Towards a 3D-Grammar: Interaction of linguistic and extralinguistic factors in the use of Dutch causative constructions. <i>Journal of Pragmatics, 52</i>, 34–48. <a target="_blank" href = "https://doi.org/10.1016/j.pragma.2012.12.013">[doi]</a> <a target="_blank" href ="/docs/LevshinaEtAl2013_3DGrammar.pdf"> [pdf] </a> 
+
+## 2012 and earlier
+
+Levshina, N. (2012). Comparing constructicons: A usage-based analysis of the causative construction with doen in Netherlandic and Belgian Dutch. <i>Constructions and Frames, 4</i>(1), 76–101. <a target="_blank" href = "https://doi.org/10.1075/cf.4.1.04lev">[doi]</a> <a target="_blank" href ="/docs/Levshina2012_Constructicons.pdf"> [pdf (draft)] </a>  
+
+Levshina, N., Geeraerts, D., & Speelman, D. 2011. Changing the world vs. changing the mind: Distinctive collexeme analysis of the causative construction with doen in Belgian and Netherlandic Dutch. In F. Gregersen, J. Parrot and P. Quist (eds.), <i>Language variation - European perspectives III. Selected papers from the 5th International Conference on Language Variation in Europe</i>, Copenhagen, June 2009 (pp. 111–122). John Benjamins.  <a target="_blank" href = "https://doi.org/10.1075/silv.7.09lev">[doi]</a>
+
+Levshina, Natalia. 2011. Doe wat je niet laten kan [Do what you cannot let]: A usage-based analysis of Dutch causative constructions. PhD dissertation, University of Leuven. <a target="_blank" href ="/docs/Levshina2011_PhD.pdf"> [pdf] </a>  
+
+Levshina, N. (2006). Kosvennyje rečevyje taktiki v predvybornom diskurse (Indirect speech tactics in pre-election discourse). Thesis for the degree of candidate of philological sciences, Sankt Petersburg State University.
+
+Also see my publication list on <a href="https://orcid.org/0000-0002-3669-8784" target="_blank">ORCID</a>.
 
