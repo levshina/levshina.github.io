@@ -14,7 +14,7 @@ Levshina, N. (In press). Communicative efficiency and semantics: Language variat
 Levshina, N. (2026). Efficiency in Language Change. In H. Nesi, H. & P. Milin (Eds.), <i>International Encyclopedia of Language and Linguistics</i>, 3rd edn. Vol 3. (pp. 99–104). Elsevier. <a target="_blank" href = "https://doi.org/10.1016/B978-0-323-95504-1.00881-4">[doi]</a> <a target="_blank" href="/docs/Levshina2025_EfficiencyLanguageChange.pdf"> [pdf (draft)] </a>
 
 Levshina, N. (2026). Which languages are “hot”, and which are “cool”? Using Universal Dependencies for large-scale comparisons of subject
-Expression. In <i>Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026)</i>, Palma de Mallorca, May 16, 2026 (pp. 49–53). ELRA  <a target="_blank" href = "http://lrec-conf.org/proceedings/lrec2026/workshops/udw/2026.udw-1.0.pdf">[pdf (book of abstracts)]</a>
+Expression. In <i>Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026)</i>, Palma de Mallorca, May 16, 2026 (pp. 49–53). ELRA <a target="_blank" href="https://doi.org/10.63317/2s2z5jrzaihn">[doi]</a> <a target="_blank" href = "http://www.lrec-conf.org/proceedings/lrec2026/workshops/udw/pdf/2026.udw-1.2.pdf">[pdf]</a>
 
 ## 2025
 
