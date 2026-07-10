@@ -32,3 +32,15 @@ With this study, we hope to understand how people from different cultures and sp
 
 ### Funding
 The Centre of Language Studies (Radboud University), 2024-2026
+
+### Publications
+
+Levshina, N. (2026). Which languages are “hot”, and which are “cool”? Using Universal Dependencies for large-scale comparisons of subject
+Expression. In <i>Proceedings of the Ninth Workshop on Universal Dependencies (UDW 2026)</i>, Palma de Mallorca, May 16, 2026 (pp. 49–53). ELRA <a target="_blank" href="https://doi.org/10.63317/2s2z5jrzaihn">[doi]</a> <a target="_blank" href = "http://www.lrec-conf.org/proceedings/lrec2026/workshops/udw/pdf/2026.udw-1.2.pdf">[pdf]</a>
+
+### Talks
+
+Levshina, N., Centola, M., Gazzinelli, A. Katzir, N., Mello, L., Mohry, R., Narayanaswamy, N., Ye, J., Tamaoka, K. (2026). A corpus-based typology of implicitness: Agents and time reference. Paper presented at the 16th International Conference of the Association for Linguistic Typology, 1-3 July 2026 Lyon (France).
+
+Levshina, N. (2026). Who Did What to Whom - and Why? Combining evidence from various sources. Paper presented at the 16th International Conference of the Association for Linguistic Typology, 1-3 July 2026 Lyon (France).
+
