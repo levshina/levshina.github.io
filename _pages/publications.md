@@ -11,6 +11,8 @@ Levshina, N. (In press). Communicative efficiency and semantics: Language variat
 
 ## 2026
 
+Levshina, N., Centola, M., Katzir, N., Narayanaswamy, N., Ye, J., Mello, L., Gazzinelli, A., Morhy, R., & Tamaoka, K. (2026). Measuring Context Across Cultures: A Multidimensional Corpus-Based Approach. <i>Cross-Cultural Research, 0</i>(0). <a target="_blank" href ="https://doi.org/10.1177/10693971261502889">[doi, open access]</a>
+
 Levshina, N. (2026). Why AI is not (quite) the same as artificial intelligence: reconciling isomorphism and communicative efficiency in formal reduction. <i>Language and Cognition, 18</i>, e51. <a target="_blank" href = "https://doi.org/10.1017/langcog.2026.10100">[doi, open access]</a> 
 
 Levshina, N. (2026). Efficiency in Language Change. In H. Nesi, H. & P. Milin (Eds.), <i>International Encyclopedia of Language and Linguistics</i>, 3rd edn. Vol 3. (pp. 99–104). Elsevier. <a target="_blank" href = "https://doi.org/10.1016/B978-0-323-95504-1.00881-4">[doi]</a> <a target="_blank" href="/docs/Levshina2025_EfficiencyLanguageChange.pdf"> [pdf (draft)] </a>
